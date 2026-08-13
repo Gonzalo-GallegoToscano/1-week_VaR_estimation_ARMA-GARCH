@@ -18,7 +18,7 @@ fitted separately from the marginals.
 | `var_spx_dax.Rmd` | the full analysis: diagnostics, marginals, copula, VaR, backtests |
 | `references.bib` | bibliography |
 | `report.pdf` | the knitted report |
-| `data/` | gitignored; see below for how to get the two series |
+| `data/` | gitignored, see below for how to get the two series |
 
 ## Data
 
